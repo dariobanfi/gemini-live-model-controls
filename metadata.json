@@ -1,0 +1,8 @@
+{
+  "name": "gemini-live-model-controls",
+  "description": "Making live models do what we want",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
